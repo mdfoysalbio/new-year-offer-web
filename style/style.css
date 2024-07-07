@@ -46,6 +46,8 @@
     font-size: 70px;
     font-weight: 700;
     color: rgb(255, 0, 0);
+    max-width: 1320px;
+    margin: 0 auto;
 }
 
 .section1 >p{
