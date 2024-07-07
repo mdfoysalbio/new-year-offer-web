@@ -1,0 +1,207 @@
+
+
+/* header section start */
+
+.header{
+    max-width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    border-radius: 16px;
+}
+
+.headerdiv{
+    color: aliceblue;
+    text-align: center;
+}
+#newyear{
+    font-size: 30px;
+    font-weight: 400;
+}
+#bannerheading{
+    font-size: 60px;
+    font-weight: 900;
+    margin-top: -5px;
+}
+
+/* header section over */
+
+
+/* Secion 1 start here */
+
+.section1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.section1 >h1{
+    font-size: 70px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+}
+
+.section1 >p{
+    font-size: 18px;
+    color: rgb(255, 0, 0);
+    letter-spacing: 0%;
+    margin-top: -20px;
+    
+}
+.section1 >h2{
+    font-size: 35px;
+    columns: rgb(7, 2, 17);
+    margin-top: -7px;
+}
+.section1 >img{
+    margin-top: 6px;
+}
+
+/* Secion 1 over here */
+
+/* section 2 start here  */
+
+.section2{
+    max-width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    background-image:linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('../images/Vectorrr.png');
+    border-radius: 16px;
+    margin-top: 120px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   
+    
+
+    
+}
+
+.sectiondiv1{
+    color: aliceblue;
+    padding-left: 126px;
+    
+}
+
+.sectiondiv1 >h1{
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    letter-spacing: 6px;
+}
+
+.sectiondiv1 >p{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: -30px;
+}
+.sectiondiv1 >h3{
+    font-size: 23px;
+    font-weight: 700;
+    padding: 25px;
+}
+
+.imagediv{
+    padding-right: 144px;
+}
+
+/* section2 over here  */
+
+
+/* section3 start here  */
+
+.section3{
+    max-width: 1320px;
+    height: 482px;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    margin: 0 auto;
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.section3 >p{
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: -5px;
+}
+
+.section3 >p span{
+    color: 
+    rgb(255, 0, 0);
+}
+.section3 > button{
+    border: none;
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    padding: 13px 32px 16px 32px;
+    color: aliceblue;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+/* section3 over here  */
+
+
+/* section4 start here  */
+
+.section4{
+    width: 1320px;
+    height: 463px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 126px;
+}
+
+
+.s4div1 >h3{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(255, 0, 0);
+    margin-top: 104px;
+}
+.s4div1 >h1{
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: -5px;
+}
+
+.s4div1 >p{
+  color: rgba(7, 2, 17, 0.6);
+  font-weight: 400;
+  font-size: 21px;
+  margin-top: -13px;
+}
+
+.s4div2{
+    width: 364.84px;
+    height: 364.84px;
+}
+
+.s4div3 >h1{
+    font-size: 48px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+    margin-top: 112px;
+    
+}
+.s4div3 >p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    color: rgba(7, 2, 17, 0.6);
+    margin-top: -23px;
+
+}
